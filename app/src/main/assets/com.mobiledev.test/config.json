@@ -4,12 +4,12 @@
   "Menu": [
     {
       "header": "",
-      "type": 0,
       "items": [
         {
           "img": "",
           "title": "",
           "desc": "",
+          "type": 0,
           "id": ""
         }
       ]
