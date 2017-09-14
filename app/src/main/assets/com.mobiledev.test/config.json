@@ -4,11 +4,13 @@
   "Menu": [
     {
       "header": "",
+      "type": 0,
       "items": [
         {
           "img": "",
           "title": "",
-          "package": ""
+          "desc": "",
+          "id": ""
         }
       ]
     }
