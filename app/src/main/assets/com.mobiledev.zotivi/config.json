@@ -11,35 +11,35 @@
           "img": "https://yt3.ggpht.com/-2yYewwG1-fs/AAAAAAAAAAI/AAAAAAAAAAA/oLPMDpbkg1I/s100-c-k-no-mo-rj-c0xffffff/photo.jpg",
           "title": "THVL Giải Trí",
           "desc": "",
-          "type": 0,
+          "type": 1,
           "id": "1"
         },
         {
           "img": "https://yt3.ggpht.com/-bR_nQqJQnWs/AAAAAAAAAAI/AAAAAAAAAAA/lKHB_DPfUeM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg",
           "title": "FAP TV",
           "desc": "",
-          "type": 0,
+          "type": 1,
           "id": "2"
         },
         {
           "img": "https://s1.mzstatic.com/us/r30/Purple3/v4/44/f2/d7/44f2d7cc-9e38-0a08-fcdb-d5faffb11343/mzl.owrmvsca.png",
           "title": "Phim",
           "desc": "",
-          "type": 0,
+          "type": 1,
           "id": "3"
         },
         {
           "img": "http://ndl.mgccw.com/mu3/app/20141005/06/1412470389573/icon/icon_xl.png",
           "title": "Hài tổng hợp",
           "desc": "",
-          "type": 0,
+          "type": 1,
           "id": "4"
         },
         {
           "img": "http://www.chuanhoatienganh.edu.vn/uploads/images/4/images/Kien%20thuc/11.2016/hoc-tieng-anh-9302-1441684663.jpg",
           "title": "Học Tiếng Anh",
           "desc": "",
-          "type": 0,
+          "type": 1,
           "id": "5"
         }
       ]
