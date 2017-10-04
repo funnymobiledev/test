@@ -9,33 +9,33 @@
       "items": [
         {
           "id": "0",
-          "name": "THVL Giải Trí",
-          "avatar": "https://yt3.ggpht.com/-2yYewwG1-fs/AAAAAAAAAAI/AAAAAAAAAAA/oLPMDpbkg1I/s100-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          "title": "THVL Giải Trí",
+          "img": "https://yt3.ggpht.com/-2yYewwG1-fs/AAAAAAAAAAI/AAAAAAAAAAA/oLPMDpbkg1I/s100-c-k-no-mo-rj-c0xffffff/photo.jpg"
         },
         {
           "id": "1",
-          "name": "FAP TV",
-          "avatar": "https://yt3.ggpht.com/-bR_nQqJQnWs/AAAAAAAAAAI/AAAAAAAAAAA/lKHB_DPfUeM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          "title": "FAP TV",
+          "img": "https://yt3.ggpht.com/-bR_nQqJQnWs/AAAAAAAAAAI/AAAAAAAAAAA/lKHB_DPfUeM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg"
         },
         {
           "id": "2",
-          "name": "Ca nhạc",
-          "avatar": "http://vetinhtv.com/tvstream_new/web/images/1100588548Am%20Nhac%20Icon.png"
+          "title": "Ca nhạc",
+          "img": "http://vetinhtv.com/tvstream_new/web/images/1100588548Am%20Nhac%20Icon.png"
         },
         {
           "id": "3",
-          "name": "Phim",
-          "avatar": "https://s1.mzstatic.com/us/r30/Purple3/v4/44/f2/d7/44f2d7cc-9e38-0a08-fcdb-d5faffb11343/mzl.owrmvsca.png"
+          "title": "Phim",
+          "img": "https://s1.mzstatic.com/us/r30/Purple3/v4/44/f2/d7/44f2d7cc-9e38-0a08-fcdb-d5faffb11343/mzl.owrmvsca.png"
         },
         {
           "id": "4",
-          "name": "Hài tổng hợp",
-          "avatar": "http://ndl.mgccw.com/mu3/app/20141005/06/1412470389573/icon/icon_xl.png"
+          "title": "Hài tổng hợp",
+          "img": "http://ndl.mgccw.com/mu3/app/20141005/06/1412470389573/icon/icon_xl.png"
         },
         {
           "id": "5",
-          "name": "Học Tiếng Anh",
-          "avatar": "http://www.chuanhoatienganh.edu.vn/uploads/images/4/images/Kien%20thuc/11.2016/hoc-tieng-anh-9302-1441684663.jpg"
+          "title": "Học Tiếng Anh",
+          "img": "http://www.chuanhoatienganh.edu.vn/uploads/images/4/images/Kien%20thuc/11.2016/hoc-tieng-anh-9302-1441684663.jpg"
         }
       ]
     },
