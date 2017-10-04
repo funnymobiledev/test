@@ -9,77 +9,33 @@
       "items": [
         {
           "id": "0",
-          "name": "THVL Giải Trí",
-          "avatar": "https://yt3.ggpht.com/-2yYewwG1-fs/AAAAAAAAAAI/AAAAAAAAAAA/oLPMDpbkg1I/s100-c-k-no-mo-rj-c0xffffff/photo.jpg",
+          "title": "THVL Giải Trí",
+          "img": "https://yt3.ggpht.com/-2yYewwG1-fs/AAAAAAAAAAI/AAAAAAAAAAA/oLPMDpbkg1I/s100-c-k-no-mo-rj-c0xffffff/photo.jpg"
         },
         {
           "id": "1",
-          "name": "FAP TV",
-          "avatar": "https://yt3.ggpht.com/-bR_nQqJQnWs/AAAAAAAAAAI/AAAAAAAAAAA/lKHB_DPfUeM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg",
-          "group": [
-            {
-              "name": "Em Của Anh, Đừng Của Ai",
-              "avatar": "https://i.ytimg.com/vi/ZYenJJQO4ps/default.jpg",
-              "link": "PLEyKu1JwbU4s65faY1HSBk9rIo0K21fZi",
-              "desc": "Sau 2 dự án phim học đường khá thành công, season 3 Hi Team mang đến 1 làn gió mới là Phim tình cảm \"\"Em Của Anh Đừng Của Ai\"Phim dự kiến phát sóng mỗi tuần 1 tập vào 19h thứ 7 hàng tuần"
-            },
-            {
-              "name": "FAPtv Cơm Nguội ",
-              "avatar": "https://i.ytimg.com/vi/zaPcuamyI-8/default.jpg",
-              "link": "PLEyKu1JwbU4u_b5osaEIik_yyOFXyEnYH",
-              "desc": "Cơm Nguội - là 1 món ăn đỡ đói thời sinh viên -Cũng tượng trưng cho món ăn phụ trong khi chờ đợi series chính 1-2 tháng có 1 tập của FAPtv"
-            },
-            {
-              "name": "Phim Chàng Trai Của Em",
-              "avatar": "https://i.ytimg.com/vi/CVFAsd8WEXE/default.jpg",
-              "link": "PLEyKu1JwbU4tRuFhxXtdOLwVekjn3JFbJ",
-              "desc": "Phim Học đường Chàng Trai Của Em là dự án phim dài tập của FAPtv trong năm 2017 - phim được được phát triển bởi Hi Team"
-            },
-            {
-              "name": "FAP TV - Full Series",
-              "avatar": "https://i.ytimg.com/vi/pdZ8Zy2vN_c/default.jpg",
-              "link": "PLEyKu1JwbU4t6ub0hadeBdhj-6Zw-z2uE",
-              "desc": "Xem theo danh sách đầy đủ các tập hài của FAPtv"
-            },
-            {
-              "name": "Quán Cafe Bất Ổn",
-              "avatar": "https://i.ytimg.com/vi/T3nr9s-XCrA/default.jpg",
-              "link": "PLEyKu1JwbU4uArHCA6p9MuK10Sr49NV3b",
-              "desc": "Series hài mới mang tên Cơm Nguội với hàng loạt tiểu phẩm hài chất như quả đất với số lượng 3 tới 7 tập mỗi tuần"
-            },
-            {
-              "name": "Phim Là Anh",
-              "avatar": "https://i.ytimg.com/vi/e7UuCTzuMi8/default.jpg",
-              "link": "PLEyKu1JwbU4vd9E5YUMAQ8lOe-AWo1NTN",
-              "desc": "Phim Là Anh - Học Đường, Tình Cảm , Hài Hước"
-            },
-            {
-              "name": "FAP tv Vợ Ơi Là Vợ",
-              "avatar": "https://i.ytimg.com/vi/9chYjSzq8QU/default.jpg",
-              "link": "PLEyKu1JwbU4vvmPgKuJbS9CoI8iZ1xhi2",
-              "desc": "FAP tv Vợ Ơi Là Vợ"
-            }
-          ]
+          "title": "FAP TV",
+          "img": "https://yt3.ggpht.com/-bR_nQqJQnWs/AAAAAAAAAAI/AAAAAAAAAAA/lKHB_DPfUeM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg"
         },
         {
           "id": "2",
-          "name": "Ca nhạc",
-          "avatar": "http://vetinhtv.com/tvstream_new/web/images/1100588548Am%20Nhac%20Icon.png",
+          "title": "Ca nhạc",
+          "img": "http://vetinhtv.com/tvstream_new/web/images/1100588548Am%20Nhac%20Icon.png"
         },
         {
           "id": "3",
-          "name": "Phim",
-          "avatar": "https://s1.mzstatic.com/us/r30/Purple3/v4/44/f2/d7/44f2d7cc-9e38-0a08-fcdb-d5faffb11343/mzl.owrmvsca.png",
+          "title": "Phim",
+          "img": "https://s1.mzstatic.com/us/r30/Purple3/v4/44/f2/d7/44f2d7cc-9e38-0a08-fcdb-d5faffb11343/mzl.owrmvsca.png"
         },
         {
           "id": "4",
-          "name": "Hài tổng hợp",
-          "avatar": "http://ndl.mgccw.com/mu3/app/20141005/06/1412470389573/icon/icon_xl.png",
+          "title": "Hài tổng hợp",
+          "img": "http://ndl.mgccw.com/mu3/app/20141005/06/1412470389573/icon/icon_xl.png"
         },
         {
           "id": "5",
-          "name": "Học Tiếng Anh",
-          "avatar": "http://www.chuanhoatienganh.edu.vn/uploads/images/4/images/Kien%20thuc/11.2016/hoc-tieng-anh-9302-1441684663.jpg",
+          "title": "Học Tiếng Anh",
+          "img": "http://www.chuanhoatienganh.edu.vn/uploads/images/4/images/Kien%20thuc/11.2016/hoc-tieng-anh-9302-1441684663.jpg"
         }
       ]
     },
