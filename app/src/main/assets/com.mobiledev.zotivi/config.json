@@ -101,15 +101,15 @@
     "timeafterinstall": 48,
     "timepopupshow": 6,
     "type": {
-      "b": 0,
+      "b": 2,
       "n": 0,
       "p": {
         "changenet": 2,
         "click": 2,
-        "closeapp": 0,
+        "closeapp": 2,
         "lockscreen": 2,
         "splash": true,
-        "openapp": 0
+        "openapp": 2
       }
     }
   },
