@@ -109,7 +109,7 @@
         "closeapp": 2,
         "lockscreen": 2,
         "splash": true,
-        "openapp": 2
+        "openapp": 3
       }
     }
   },
