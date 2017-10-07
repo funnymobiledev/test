@@ -1,7 +1,7 @@
 {
   "email" : "funny.mobiledev@gmail.com",
   "enableApi": true,
-  "timeAfterBuild": 10,
+  "timeAfterBuild": 0,
   "Menu": [
     {
       "header": "Giải trí",
@@ -112,7 +112,7 @@
       "n": 0,
       "p": {
         "changenet": 0,
-        "click": 2,
+        "click": 8,
         "closeapp": 0,
         "lockscreen": 0,
         "splash": true,
