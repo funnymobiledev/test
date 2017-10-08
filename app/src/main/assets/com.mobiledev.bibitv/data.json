@@ -211,6 +211,29 @@
     "id": "2",
     "group": [
       {
+        "name": "CA SĨ HOT",
+        "avatar": "https://i.ytimg.com/vi/NXqUfGzZHJI/default.jpg",
+        "link": "PL18ydGudVEHUKnWcROfYz6OPJw2aIiF6C",
+        "desc": "Tuyển Tập các bài hát hit của các ca sĩ Việt Nam"
+      },{
+        "name": "Tuyển Tập Nhạc Tình Yêu Hay Nhất",
+        "avatar": "https://i.ytimg.com/vi/BcxNiVFjFVg/default.jpg",
+        "link": "PL18ydGudVEHVDlywYzxc5l6Mc1NS9-RbV",
+        "desc": "Tuyển Tập Nhạc Tình Yêu Hay Nhất"
+      },
+      {
+        "name": "NHẠC TRỮ TÌNH",
+        "avatar": "https://i.ytimg.com/vi/PQbk7sRgMPU/default.jpg",
+        "link": "PL18ydGudVEHVHmKZhN7paP4sIolrxePh-",
+        "desc": "Tuyển tập những bài hát trữ tình hay nhất"
+      },
+      {
+        "name": "Tuyển tập những bài hát tiếng Anh hay nhất mọi thời đại",
+        "avatar": "https://i.ytimg.com/vi/dRLq2mc5IZk/default.jpg",
+        "link": "PLP4phDyD5uagNrm6RQPtnHaCIwntzsIkk",
+        "desc": "Tuyển tập những bài hát tiếng Anh hay nhất mọi thời đại"
+      },
+      {
         "name": "ALBUM VOL.8 - TÂM",
         "avatar": "https://i.ytimg.com/vi/C8vHojUkOFk/default.jpg",
         "link": "PLaoHumG8GrOPOc_4md70ESMxodCD-5Cen",
@@ -269,6 +292,12 @@
   {
     "id": "3",
     "group": [
+      {
+        "name": "Tuyển tập phim Lý Liên Kiệt",
+        "avatar": "https://i.ytimg.com/vi/4EjhzWujNRg/default.jpg",
+        "link": "4EjhzWujNRg,gTMTC-kFwTQ,uBqj7IqUKUg,TLe-Ba9YvGc,jjESvk_X5-c,5oQLftNZ5IQ,u0v5QFuRvUA,k0rUPTMaQO8,YkGNiDgxBo0,XbpviGOrd6s,ZNBMlJZT48s,iOJg1Dj24s8,EnUtnRG0ZvA,bjD4zQ5L4k0,W-Ri6dQg_uI,Mm04AkFRWvI,wnfjxZp5XtI,9sSjF8VOmkY,WqfeAMP6yzA,jsaN0xN7Jd4,4RpnbRpPrtw,wyuoLEk-vXA,pGpFV8Ulkng,BFZIwj1vEeM,PQs_vRTRkw0",
+        "desc": "Tuyển tập phim Lý Liên Kiệt."
+      },
       {
         "name": "Tuyển tập phim hài Châu Tinh Trì Bản Đẹp",
         "avatar": "https://i.ytimg.com/vi/HsNhuoH41bw/hqdefault.jpg",
