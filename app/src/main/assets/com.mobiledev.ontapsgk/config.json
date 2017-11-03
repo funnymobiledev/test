@@ -1,0 +1,60 @@
+{
+  "email" : "funny.mobiledev@gmail.com",
+  "enableApi": true,
+  "timeAfterBuild": 0,
+  "Menu": [
+    {
+      "header": "ỨNG DỤNG MỚI",
+      "items": [
+        {
+          "img": "https://lh3.googleusercontent.com/B96XtDKcdVfE1Gi1SHeF4gRNTThwmep8Aagra7Zq1diKEsOsJ6mjbGsK6EbeWkVMKN74=w300-rw",
+          "title": "FiK - Ứng dụng tìm xe",
+          "des": "Ứng dụng cho phép lưu lại vị trí xe bạn gửi cũng như chỉ đường đến nơi bạn để xe, hay đến các gara, bãi đỗ xe gần nhất",
+          "id": "com.mobiledev.findcar"
+        }
+      ]
+    }
+  ],
+  "Ads": {
+    "numClick": 8,
+    "delay": 5,
+    "ids": {
+      "admob": {
+        "b": "ca-app-pub-4618194952584426/4459691906",
+        "n": "",
+        "p": "ca-app-pub-4618194952584426/4842835286"
+      },
+      "facebook": {
+        "b": "534004950275305_534005623608571",
+        "n": "534004950275305_534005990275201",
+        "p": "534004950275305_534005816941885"
+      },
+      "startapp": "207385594",
+      "unity": "1502445"
+    },
+    "timeafterinstall": 48,
+    "timepopupshow": 5,
+    "type": {
+      "b": 1,
+      "n": 0,
+      "p": {
+        "changenet": 0,
+        "click": 1,
+        "closeapp": 0,
+        "lockscreen": 0,
+        "swscreen": 8,
+        "promotion": 0,
+        "splash": true,
+        "openapp": 0
+      }
+    }
+  },
+  "Update": {
+    "code": -1,
+    "force": false,
+    "link": "https://raw.githubusercontent.com/mdtuyen/test/dev/app/src/main/res/xml/22.apk"
+  },
+  "App": {
+    "info": "<b>GIỚI THIỆU:</b> <p>Mỗi căn bếp sẽ là một góc nhỏ mang đậm phong cách chủ nhân của ngôi nhà. Đó vốn là nơi sum vầy, đoàn tụ của tình thân, là nơi gắn kết các thành viên trong gia đình sau một ngày dài. Dù vất vả tám tiếng chốn công sở nhưng khi về với góc bếp ấy, bạn gần như quên bẵng hình ảnh của cô gái trẻ năng động để tròn vai một người phụ nữ tận tuỵ, đảm đang. Việc vun vén cho góc bếp ấy khiến bạn cảm thấy hạnh phúc biết bao.</p><p>  Với vai trò là người giúp bạn ”xây tổ ấm”, Bếp Gia Đình luôn đồng hành cùng bạn trong việc giữ gìn ngọn lửa thân thương, ấm áp này.</p><p>  Bếp Gia Đình là thương hiệu nằm trong hệ thống Marry Network bao gồm Marry, MarryBaby , Bếp Gia Đình là nơi bạn gặp gỡ các thành viên có chung đam mê ẩm thực và luôn xem góc bếp là nơi để gửi gắm những yêu thương.</p><p>Ngoài những công thức nấu món ngon, bạn có thể tham khảo bí quyết vào bếp, tô điểm góc bếp thêm đẹp, chia sẻ món ngon, các địa điểm ăn uống, kinh nghiệm sử dụng thực phẩm đóng gói, thiết bị dụng cụ bếp bạn dùng hằng ngày…</p><p>Ở Bếp Gia Đình, bạn có thể gửi trọn vẹn niềm tin trong việc mưu cầu một cuộc sống đầm ấm.<p/>"
+  }
+}
