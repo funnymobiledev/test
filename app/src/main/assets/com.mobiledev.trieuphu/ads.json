@@ -1,0 +1,270 @@
+
+
+{
+  "product": "Adfresh CrossPromontion",
+  "version": "0.2.21",
+  "releaseDate": "12-08-2017",
+  "demo": true,
+  "description": "update native",
+  "timerefresh": 42300,
+  "randomtime": 1200,
+  "active_top_app": "0",
+  "active_list_game": "1",
+  "charging_show_ads_percent": "0",
+  "close_button_percent": "100",
+  "top_app": [
+    {
+      "title": "Zing MP3",
+      "packagename": "com.zing.mp3",
+      "country": "global"
+    },
+    {
+      "title": "Zing TV",
+      "packagename": "vng.zing.mp3",
+      "country": "global"
+    },
+    {
+      "title": "Facebook",
+      "packagename": "com.facebook.katana",
+      "country": "global"
+    },
+    {
+      "title": "Zalo",
+      "packagename": "com.zing.zalo",
+      "country": "global"
+    },
+    {
+      "title": "Tiki",
+      "packagename": "vn.tiki.app.tikiandroid",
+      "country": "global"
+    },
+    {
+      "title": "Nhac Cua Tui",
+      "packagename": "ht.nct",
+      "country": "global"
+    },
+    {
+      "title": "BigKool",
+      "packagename": "vn.gamehn.danhbaitangxugamevn",
+      "country": "global"
+    },
+    {
+      "title": "Grab",
+      "packagename": "com.grabtaxi.passenger",
+      "country": "global"
+    },
+    {
+      "title": "Muvik",
+      "packagename": "com.muvik.project.xkeam",
+      "country": "global"
+    },
+    {
+      "title": "Clean Master",
+      "packagename": "com.cleanmaster.mguard",
+      "country": "global"
+    },
+    {
+      "title": "Viber",
+      "packagename": "com.viber.voip",
+      "country": "global"
+    },
+    {
+      "title": "Camera360",
+      "packagename": "camera360.lite.beauty.selfie.camera",
+      "country": "global"
+    },
+    {
+      "title": "Bigo",
+      "packagename": "sg.bigo.live",
+      "country": "global"
+    },
+    {
+      "title": "TomCat",
+      "packagename": "com.outfit7.mytalkingtomfree",
+      "country": "global"
+    },
+    {
+      "title": "HoiNgu",
+      "packagename": "com.ttmagic.hoingu",
+      "country": "global"
+    },
+    {
+      "title": "DocBao",
+      "packagename": "com.xb.topnews",
+      "country": "global"
+    },
+    {
+      "title": "BaoMoi",
+      "packagename": "com.epi",
+      "country": "global"
+    },
+    {
+      "title": "TLMN",
+      "packagename": "gsn.game.zingplaynew1",
+      "country": "global"
+    },
+    {
+      "title": "Instagram",
+      "packagename": "com.instagram.android",
+      "country": "global"
+    }
+  ],
+  "listgame": [
+    {
+      "id": "adfresh-altp",
+      "title": "Ai LÃ  Triá»‡u PhÃº",
+      "description": "Táº£i game Ai LÃ  Triá»‡u PhÃº 2017",
+      "linkgame": "https://play.google.com/store/apps/details?id=com.zikysoft.altp.ailatrieuphu.trieuphu",
+      "packagename": "com.zikysoft.altp.ailatrieuphu.trieuphu",
+      "icon": "https://lh3.googleusercontent.com/eV4JwwrPygU9lXSuUdYNFWjD-pywwFcm_5FuI0yPwITg1TiMoeRjffVM-NmpIAahs00=w192",
+      "poster_landscape": "http://ads.adfresh.net/angry_birds.jpg",
+      "poster_portrait": "http://ads.adfresh.net/nice_ass.jpg",
+      "language": "vn",
+      "flag": 1
+    },
+    {
+      "id": "adfresh-phonecooler",
+      "title": "Phone Cooler",
+      "description": "Tá»‘i Æ°u hÃ³a, lÃ m mÃ¡t Ä‘iá»‡n thoáº¡i cá»§a báº¡n",
+      "linkgame": "https://play.google.com/store/apps/details?id=com.icebear.smartcooler.phonecooler.cpucooler.master",
+      "packagename": "com.icebear.smartcooler.phonecooler.cpucooler.master",
+      "icon": "https://lh3.googleusercontent.com/BJRTPAbmDslHhhMK8NZqEa5bml0XMwZvVqRLzExXuzuUl_lvAk7G3nOQ6Y6CrbvkBw=w192",
+      "poster_landscape": "http://ads.adfresh.net/angry_birds.jpg",
+      "poster_portrait": "http://ads.adfresh.net/nice_ass.jpg",
+      "language": "global",
+      "flag": 1
+    },
+    {
+      "id": "adfresh-fidgetspinner",
+      "title": "Fidget Spinner",
+      "description": "Figet Spinner: Finger Spinny lÃ  má»™t trÃ² chÆ¡i mÃ´ phá»ng thá»±c cá»§a cá»§a trÃ² chÆ¡i fidget spinner",
+      "packagename": "com.fidgetspinner.figet.spinnyfidget.figetspinner.fingerspinner.spinnerhandfinger",
+      "linkgame": "https://play.google.com/store/apps/details?id=com.fidgetspinner.figet.spinnyfidget.figetspinner.fingerspinner.spinnerhandfinger",
+      "icon": "https://lh3.googleusercontent.com/_r-FAARxdFz7ga8pBXdQj9jLbiTvf0A274woI6cSnMtnLn5yUiQweBuG7QmEJvRgZIA=w192",
+      "poster_landscape": "http://ads.adfresh.net/docsach.jpg",
+      "poster_portrait": "http://ads.adfresh.net/mong_dep.jpg",
+      "language": "global",
+      "flag": 0
+    },
+    {
+      "id": "adfresh-batterysaver",
+      "title": "Battery Saver",
+      "description": "Sáº¡c pin nhanh - Battery Saver giÃºp ngÆ°á»i dÃ¹ng tiáº¿t kiá»‡m pin chá»‰ vá»›i má»™t cháº¡m Ä‘Æ¡n giáº£n",
+      "linkgame": "https://play.google.com/store/apps/details?id=com.icebear.batterysaver.batterydoctor.phonecooler",
+      "packagename": "com.icebear.batterysaver.batterydoctor.phonecooler",
+      "icon": "https://lh3.googleusercontent.com/TRxWh0QaZM6NhHpMKhZQETiJWN9Ek07QUMs-5-pE6UrgScXrDEM7_H2nzro6C84CodE=w192",
+      "poster_landscape": "",
+      "poster_portrait": "http://ads.adfresh.net/hoboi.jpg",
+      "language": "global",
+      "flag": 1
+    },
+    {
+      "id": "adfresh-flashlight",
+      "title": "Flash Light",
+      "description": "Brightest LED Flashlight instantly turns your device into a bright flashlight.",
+      "linkgame": "https://play.google.com/store/apps/details?id=com.damchot.flashlight.brightest.freetorch.ledlight",
+      "packagename": "com.damchot.flashlight.brightest.freetorch.ledlight",
+      "icon": "https://lh3.googleusercontent.com/-NMeyk4p9ZlN5C6hYyxDxreEbJy8vjUlgVC-_dFVxNtSm81zu46SVStwRnK9DrAniw=w192",
+      "poster_landscape": "http://ads.adfresh.net/angry_birds.jpg",
+      "poster_portrait": "http://ads.adfresh.net/nice_ass.jpg",
+      "language": "global",
+      "flag": 0
+    },
+    {
+      "id": "adfresh-hoinguv2",
+      "title": "Há»i Ngu - V2",
+      "description": "Game Ä‘á»‘ vui, tÆ°á»Ÿng khÃ´ng troll mÃ  troll khÃ´ng tÆ°á»Ÿng",
+      "linkgame": "https://play.google.com/store/apps/details?id=com.zikysoft.hoingu.hoiti.dovui.daptroll.caudo.dangian.hoitroll",
+      "packagename": "com.zikysoft.hoingu.hoiti.dovui.daptroll.caudo.dangian.hoitroll",
+      "icon": "https://lh3.googleusercontent.com/dJDftuoYTh8Da7imloTFanxAtZEgyCfAIITFWuDcV61pliOTl6O7zJFF5PMpTkKwxGA4=w192",
+      "poster_landscape": "http://ads.adfresh.net/angry_birds.jpg",
+      "poster_portrait": "http://ads.adfresh.net/nice_ass.jpg",
+      "language": "vn",
+      "flag": 1
+    },
+    {
+      "id": "adfresh-hoinguv1",
+      "title": "Há»i Ngu - V1",
+      "description": "NÆ¡i rÃ¨n luyá»‡n cho báº¡n tinh tháº§n thÃ©p cá»±c ká»³ há»¯u dá»¥ng.",
+      "linkgame": "https://play.google.com/store/apps/details?id=com.zikysoft.hoingu.daptroll",
+      "packagename": "com.zikysoft.hoingu.daptroll",
+      "icon": "https://lh3.googleusercontent.com/w--ClkCypMzRS0AHUYsr5KxhMsIpnlrPUP41EWrqU6UrwaDIl3LLOl4pkbB8XrWWrA=w192",
+      "poster_landscape": "http://ads.adfresh.net/angry_birds.jpg",
+      "poster_portrait": "http://ads.adfresh.net/nice_ass.jpg",
+      "language": "vn",
+      "flag": 0
+    },
+    {
+      "id": "adfresh-candysweet",
+      "title": "Candy Sweet",
+      "description": "Candy Sweet: Cookie Crush is a classic Match 3 Puzzle Game",
+      "linkgame": "https://play.google.com/store/apps/details?id=com.candysweet.cookiematch3",
+      "packagename": "com.candysweet.cookiematch3",
+      "icon": "https://lh3.googleusercontent.com/fQDzlCNnDEaWQ2UWDFEmKPCTeD-vKhWWQI144kXSnNSPzfWDKt82-hBME9pCzr6L63Y=w192",
+      "poster_landscape": "http://ads.adfresh.net/angry_birds.jpg",
+      "poster_portrait": "http://ads.adfresh.net/nice_ass.jpg",
+      "language": "vn",
+      "flag": 0
+    },
+    {
+      "id": "adfresh-fruitsplash",
+      "title": "Fruit Splash Match3",
+      "description": "Fruit Blast Mania is a farm game that you have to match fruit to harvest them.",
+      "linkgame": "https://play.google.com/store/apps/details?id=com.ziky.fruitsplash.match3",
+      "packagename": "com.ziky.fruitsplash.match3",
+      "icon": "https://lh3.googleusercontent.com/81KKsXV3dlXHfUGmpDb5k4I3P3LceZql4pivYOtmPtYx9tQ-oVYm6tCl0FLksGAf5aw=w192",
+      "poster_landscape": "http://ads.adfresh.net/angry_birds.jpg",
+      "poster_portrait": "http://ads.adfresh.net/nice_ass.jpg",
+      "language": "global",
+      "flag": 1
+    },
+    {
+      "id": "adfresh-dovuihainao",
+      "title": "Äá»‘ Vui Háº¡i NÃ£o",
+      "description": "Cáº¢NH BÃO: KHÃ”NG CHÆ I GAME BÃŠN Cáº NH Gáº¤U â€“ Báº N CÃ“ THá»‚ Bá»Š ÄÃ VÃŒ QUÃ TRONG SÃNG!!!",
+      "linkgame": "https://play.google.com/store/apps/details?id=com.zikysoft.dovuihainao.daptroll",
+      "packagename": "com.zikysoft.dovuihainao.daptroll",
+      "icon": "https://lh3.googleusercontent.com/Ca8Ct-VS2t50tMqRl16lxe3mJvx5iDQM3c52Zwsm0hXuWSUL-BxY9PqDk-V-Pq9jaMg=w192",
+      "poster_landscape": "http://ads.adfresh.net/angry_birds.jpg",
+      "poster_portrait": "http://ads.adfresh.net/nice_ass.jpg",
+      "language": "vn",
+      "flag": 1
+    },
+    {
+      "id": "adfresh-2hinh1chu",
+      "title": "2 hÃ¬nh 1 chá»¯",
+      "description": "2 hÃ¬nh 1 chá»¯ - Äuá»•i HÃ¬nh Báº¯t Chá»¯ - Äá»‘ vuiâ€“ ThÃ¡ch thá»©c kháº£ nÄƒng suy luáº­n cá»§a ngÆ°á»i chÆ¡i! ",
+      "linkgame": "https://play.google.com/store/apps/details?id=com.zikysoft.haihinhmotchu",
+      "packagename": "com.zikysoft.haihinhmotchu",
+      "icon": "https://lh3.googleusercontent.com/74wp3qVqJJ91i0ygHDb68KG3Q1BLH9-yF1cmoxp3URDWLe-0lF-jSecX7DEh5PPFj98=w192",
+      "poster_landscape": "http://ads.adfresh.net/angry_birds.jpg",
+      "poster_portrait": "http://ads.adfresh.net/nice_ass.jpg",
+      "language": "global",
+      "flag": 1
+    },
+    {
+      "id": "adfresh-blockpuzzle",
+      "title": "Block Puzzle",
+      "description": "Block Puzzle is a fun and classic block game!",
+      "linkgame": "https://play.google.com/store/apps/details?id=com.ziky.blockpuzzle.jewel.blockblack.blockgame",
+      "packagename": "com.ziky.blockpuzzle.jewel.blockblack.blockgame",
+      "icon": "https://lh3.googleusercontent.com/RCsb5Xg80fblXhjMXFkh_ZQSg7jCkwP0hbXsPX_TVhaGIOK-iedOff9q6DVaG-58SII=w192",
+      "poster_landscape": "http://ads.adfresh.net/angry_birds.jpg",
+      "poster_portrait": "http://ads.adfresh.net/nice_ass.jpg",
+      "language": "global",
+      "flag": 1
+    },
+    {
+      "id": "adfresh-godofera",
+      "title": "God of Era",
+      "description": "God of Era ká»ƒ vá» cuá»™c chiáº¿n Ä‘áº§y khá»‘c liá»‡t cá»§a cÃ¡c Anh hÃ¹ng sá»­ thi. !",
+      "linkgame": "https://play.google.com/store/apps/details?id=com.Zonmob.GodofEra",
+      "packagename": "com.Zonmob.GodofEra",
+      "icon": "https://lh3.googleusercontent.com/hx7CN8FJw4uNIjAUVlitVa1mXvmIeXkpVS4MVwhTI47IpaDoQX7Y1LxOpQL_rY25Ci8=w192",
+      "poster_landscape": "http://ads.adfresh.net/angry_birds.jpg",
+      "poster_portrait": "http://ads.adfresh.net/nice_ass.jpg",
+      "language": "global",
+      "flag": 1
+    }
+  ]
+}
