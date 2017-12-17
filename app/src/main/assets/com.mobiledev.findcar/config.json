@@ -47,8 +47,8 @@
     }
   ],
   "Ads": {
-    "numClick": 8,
-    "delay": 5,
+    "numClick": 4,
+    "delay": 2,
     "ids": {
       "admob": {
         "b": "ca-app-pub-3310732296129502/5664251878",
@@ -66,11 +66,11 @@
     "timeafterinstall": 48,
     "timepopupshow": 6,
     "type": {
-      "b": 2,
+      "b": 1,
       "n": 0,
       "p": {
         "changenet": 0,
-        "click": 8,
+        "click": 1,
         "closeapp": 0,
         "lockscreen": 0,
         "swscreen": 0,
